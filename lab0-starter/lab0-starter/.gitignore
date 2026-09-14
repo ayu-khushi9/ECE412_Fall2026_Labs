@@ -1,0 +1,11 @@
+# Build products -- never commit these
+stats
+*.o
+*.out
+a.out
+
+# Editor / OS noise
+*.swp
+*~
+.DS_Store
+.vscode/
