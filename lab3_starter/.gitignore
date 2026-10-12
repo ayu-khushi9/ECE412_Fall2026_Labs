@@ -1,0 +1,6 @@
+*.o
+inventory
+public_tests
+*.dSYM/
+core
+vgcore.*
